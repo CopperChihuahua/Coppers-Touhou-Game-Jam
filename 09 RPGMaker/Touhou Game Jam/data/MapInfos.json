@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Title Screen","order":1,"parentId":0,"scrollX":832.8,"scrollY":507},
+{"id":1,"expanded":true,"name":"Title Screen","order":1,"parentId":0,"scrollX":692.1818181818182,"scrollY":510.54545454545456},
 {"id":2,"expanded":false,"name":"Hallway","order":6,"parentId":7,"scrollX":436.2,"scrollY":500.4},
 {"id":3,"expanded":true,"name":"Saigyou Ayakashi (Pre Seal)","order":25,"parentId":19,"scrollX":426.59999999999997,"scrollY":507.59999999999997},
-{"id":4,"expanded":true,"name":"Interior","order":3,"parentId":7,"scrollX":475.79999999999995,"scrollY":490.79999999999995},
+{"id":4,"expanded":true,"name":"Interior","order":3,"parentId":7,"scrollX":692.1818181818182,"scrollY":510.54545454545456},
 {"id":5,"expanded":false,"name":"Kitchen","order":4,"parentId":4,"scrollX":436.2,"scrollY":500.4},
 {"id":6,"expanded":false,"name":"Bathroom","order":5,"parentId":4,"scrollX":436.2,"scrollY":500.4},
 {"id":7,"expanded":true,"name":"Saigyou Estate Exterior","order":2,"parentId":1,"scrollX":436.2,"scrollY":490.79999999999995},
